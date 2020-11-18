@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Lab4</string>
+    <string name="navigation_drawer_open">Open navigation drawer</string>
+    <string name="navigation_drawer_close">Close navigation drawer</string>
+    <string name="nav_header_title">StoryCreator</string>
+    <string name="nav_header_subtitle">Лабораторная работа №4</string>
+    <string name="nav_header_desc">Navigation header</string>
+    <string name="action_clear">Очистить</string>
+
+    <string name="menu_home">Home</string>
+    <string name="menu_gallery">Gallery</string>
+    <string name="menu_slideshow">Slideshow</string>
+
+    <string name="menu_enter_story">Enter your story</string>
+    <string name="menu_white">Белый</string>
+    <string name="menu_red">Красный</string>
+    <string name="menu_orange">Оранжевый</string>
+    <string name="menu_yellow">Желтый</string>
+    <string name="menu_green">Зеленый</string>
+    <string name="menu_blue">Голубой</string>
+    <string name="menu_indigo">Синий</string>
+    <string name="menu_violet">Фиолетовый</string>
+
+    <string name="nav_logout">Выход</string>
+</resources>

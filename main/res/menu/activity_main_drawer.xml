@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android"
+    xmlns:tools="http://schemas.android.com/tools"
+    tools:showIn="navigation_view">
+
+    <group android:checkableBehavior="single">
+        <item
+            android:id="@+id/nav_white"
+            android:title="@string/menu_white"
+            android:icon="@drawable/ic_baseline_color"/>
+
+        <item
+            android:id="@+id/nav_red"
+            android:title="@string/menu_red"
+            android:icon="@drawable/ic_baseline_color"/>
+        <item
+            android:id="@+id/nav_orange"
+            android:title="@string/menu_orange"
+            android:icon="@drawable/ic_baseline_color"/>
+        <item
+            android:id="@+id/nav_yellow"
+            android:title="@string/menu_yellow"
+            android:icon="@drawable/ic_baseline_color"/>
+        <item
+            android:id="@+id/nav_green"
+            android:title="@string/menu_green"
+            android:icon="@drawable/ic_baseline_color" />
+        <item
+            android:id="@+id/nav_blue"
+            android:title="@string/menu_blue"
+            android:icon="@drawable/ic_baseline_color" />
+        <item
+            android:id="@+id/nav_indigo"
+            android:title="@string/menu_indigo"
+            android:icon="@drawable/ic_baseline_color" />
+        <item
+            android:id="@+id/nav_violet"
+            android:title="@string/menu_violet"
+            android:icon="@drawable/ic_baseline_color"/>
+    </group>
+
+</menu>
